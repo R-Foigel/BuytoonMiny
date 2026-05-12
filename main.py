@@ -27,3 +27,7 @@ rows = cursor.fetchall()
 # הדפסת התוצאות
 for row in rows:
     print(f"ID: {row.id}, Name: {row.name}, Phone: {row.phone}")
+
+print("ppppppppppp")
+
+
